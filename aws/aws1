@@ -1,3 +1,8 @@
 aws1 version 1
 aws1 version2
+<<<<<<< HEAD
 aws1 version4
+=======
+aws1 version3
+
+>>>>>>> devops
